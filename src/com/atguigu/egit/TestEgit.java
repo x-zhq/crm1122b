@@ -6,6 +6,7 @@ public class TestEgit {
 		System.out.println("fuckit,this is request 01");
 		System.out.println("request 02");
 		System.out.println("request 03");
+		System.out.println("response 01");
 	}
 	
 }
